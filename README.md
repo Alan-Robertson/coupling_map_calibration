@@ -1,4 +1,7 @@
+## Introduction ##
 
+This repository contains code that implements a coupling map based calibration of 
+measurement errors on quantum devices.
 
 ## Requirements ##
 
